@@ -12,7 +12,7 @@ Welcome to Phoenix, a powerful Discord bot designed to enhance your server exper
 - [License](#license)
 
 ## Introduction
-Phoenix is a versatile Discord bot created by [g9militantsYT](https://github.com/g9militantsYT). You can find more information about the bot on the [GitHub repository](https://github.com/g9militantsYT/Phoenix/) or visit the [official website](https://g9aerospace.in/).
+Phoenix is a versatile Discord bot
 
 ## Getting Started
 
